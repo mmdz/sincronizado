@@ -8,3 +8,6 @@
     <p>Esto es un parrafo</p>
   </body>
 </html>
+<script>
+                         alert('Hola');
+                         </script>
